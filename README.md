@@ -10,7 +10,6 @@ conventional learning-based regression. Since the proposed metric uses distortio
 features, it is computationally less complex than most general purpose video and image quality 
 metrics.
 
-
 The following files are included:
 
 compute_features.m
@@ -25,7 +24,7 @@ EPFL_PoliMi_4CIF_example.m
     
 train_and_validate_EPFL-PoliMi_4CIF.py
 
-   This Python script shows an example how to train and validate a regression model to 
-   predict frame and sequence level quality scores, using the features computed with
-   EPFL_PoliMi_4CIF_example.m. The script implements "leave-one-out" validation, without
-   using the additional training contents.
+    This Python script shows an example how to train and validate a regression model to 
+    predict frame and sequence level quality scores, using the features computed with
+    EPFL_PoliMi_4CIF_example.m. The script implements "leave-one-out" validation, without
+    using the additional training contents.
