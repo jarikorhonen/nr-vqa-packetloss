@@ -21,7 +21,7 @@ EPFL_PoliMi_4CIF_example.m
 
     This Matlab script shows an example how to use compute_features.m. For using the script,
     EPFL-PoliMi 4CIF video sequences need to be downloaded and decoded. You can download the
-    database provided by the authors [here](http://vqa.como.polimi.it/).
+    database provided by the authors from http://vqa.como.polimi.it/.
     
 train_and_validate_EPFL-PoliMi_4CIF.py
 
