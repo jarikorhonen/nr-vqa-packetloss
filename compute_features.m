@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %  Use this function to compute the Full-Reference (FR) quality indices
 %  and No-Reference (NR) features for each frame of a YUV video sequence 
@@ -197,7 +197,7 @@ function res = compute_features(test_video, ref_video, resolution, ...
 
 end
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This function computes the Full-Reference (FR) error visibility index
 % for tar_frame, using ref_frame as a reference
 %
@@ -239,7 +239,7 @@ function res = compute_FR(tar_frame, ref_frame, sob_tarY, sob_refY, ...
     
 end
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This function computes the No-Reference (NR) spatial features for
 % input frame YUV_frame
 %
@@ -347,7 +347,7 @@ function features = compute_NR_spatial(YUV_frame, Y_sobeled, width, height)
     
 end
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % This function computes the No-Reference (NR) temporal features for
 % input frame YUV_frame
 %
