@@ -1,4 +1,4 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%--------------------------------------------------------------------------
 %
 %  This script shows an example how to compute the No-Reference (NR) 
 %  features for EPFL-PoliMi 4CIF dataset, using compute_features.m
