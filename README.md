@@ -1,5 +1,7 @@
 # nr-vqa-packetloss
-No-Reference method for assessing visibility of packet loss artifacts
+##No-Reference method for assessing visibility of packet loss artifacts
+
+![NR-VQA Flowchart](https://github.com/jarikorhonen/nr-vqa-packetloss/blob/master/nr_vqa_qomex2018.png "NR-VQA Flowchart")
 
 This is implementation of a distortion specific No-Reference Video Quality Metric (NR-VQM) 
 for detecting visibility of packet loss artifacts. Unlike most of the other NR-VQMs known 
