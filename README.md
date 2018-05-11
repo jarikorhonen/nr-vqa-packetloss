@@ -3,6 +3,7 @@
 
 ![NR-VQA Flowchart](https://github.com/jarikorhonen/nr-vqa-packetloss/blob/master/nr_vqa_qomex2018.png "NR-VQA Flowchart")
 
+In QoMEX'18, we have proposed a distortion specific No-Reference Video Quality Metric (NR-VQM) for detecting packet loss artifacts. 
 This is implementation of a distortion specific No-Reference Video Quality Metric (NR-VQM) 
 for detecting visibility of packet loss artifacts. Unlike most of the other NR-VQMs known 
 in the prior art, the proposed scheme operates at the frame level, not the sequence level, 
