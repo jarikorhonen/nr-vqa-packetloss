@@ -1,5 +1,3 @@
-{% seo %}
-
 # nr-vqa-packetloss
 ## No-Reference method for assessing visibility of packet loss artifacts
 
