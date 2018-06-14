@@ -15,18 +15,18 @@ metrics.
 
 The following files are included:
 
-### compute_features.m
+#### compute_features.m
     
 Use this Matlab function to compute FR and NR features for a video sequence and write
 them in a CSV file for further processing.
     
-### EPFL_PoliMi_4CIF_example.m
+#### EPFL_PoliMi_4CIF_example.m
 
 This Matlab script shows an example how to use compute_features.m. For using the script,
 EPFL-PoliMi 4CIF video sequences need to be downloaded and decoded. You can download the
 database provided by the authors from http://vqa.como.polimi.it/.
     
-### train_and_validate_EPFL-PoliMi_4CIF.py
+#### train_and_validate_EPFL-PoliMi_4CIF.py
 
 This Python script shows an example how to train and validate a regression model to 
 predict frame and sequence level quality scores, using the features computed with
