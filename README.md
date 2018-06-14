@@ -33,7 +33,7 @@ predict frame and sequence level quality scores, using the features computed wit
 EPFL_PoliMi_4CIF_example.m. The script implements "leave-one-out" validation, without
 using the additional training contents.
 
-More details about the method will appear in the following publication:
+More details about the method are available in the following publication:
 
 J. Korhonen, “Learning-based prediction of packet loss artifact visibility in networked video,” 
 *IEEE International Conference on Quality of Multimedia Experience (QoMEX’18)*, Sardinia, Italy, 
